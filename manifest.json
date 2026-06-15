@@ -1,0 +1,10 @@
+{
+  "id": "art-de-one",
+  "name": "ART de ONE",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Highlight text, build tables, and ask AI — all inside Obsidian.",
+  "author": "ART de ONE",
+  "authorUrl": "https://github.com/artdeone",
+  "isDesktopOnly": false
+}
